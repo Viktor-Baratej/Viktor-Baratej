@@ -1,4 +1,4 @@
-<h1 align="center"> Hello!👋 I'm Victor</h1>
+<h1 align="center"> Hello!👋 I'm Viktor</h1>
 
 <h3 align="center"> 🚀 Front-End developer who creates fast, responsive and aesthetically pleasing web applications.🚀 </h3>
 
