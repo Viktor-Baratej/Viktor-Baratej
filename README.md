@@ -4,8 +4,6 @@
 
 ---
 
-<h2 align="center">I am currently studying and looking for my first position where I can prove myself.</h2>
-
 <h3 align="center">I am actively improving my skills in **HTML/CSS, JS, React, TypeScript and Nodejs** and **Full-Stack development**, including **ML/AI API integration**.</h3>
 
 ---
