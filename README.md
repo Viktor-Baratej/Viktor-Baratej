@@ -2,13 +2,9 @@
 
 <h3 align="center"> 🚀 Front-End розробник, який створює швидкі, адаптивні та естетично приємні веб-додатки.🚀 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viktor-baratejj&label=Profile%20views&color=0e75b6&style=flat" alt="viktor-baratejj" />
-</p>
-
 ---
 
-## 🌱 Я зараз навчаюсь і шукаю свою першу посаду, деб я зміг себе проявити.
+<h2 align="center">Я зараз навчаюсь і шукаю свою першу посаду, деб я зміг себе проявити.</h2>
 
 Я активно прокачую навички в **HTML/CSS, JS, React, TypeScript and Nodejs** та **Full-Stack розробці**, зокрема інтеграцію **ML/AI API**.
 
@@ -50,22 +46,6 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-</p>
-
----
-
-## 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viktor-baratejj&show_icons=true&locale=en&layout=compact" alt="viktor-baratejj" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viktor-baratejj&show_icons=true&locale=en" alt="viktor-baratejj" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viktor-baratejj&" alt="viktor-baratejj" />
 </p>
 
 ---
