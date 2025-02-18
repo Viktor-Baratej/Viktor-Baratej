@@ -1,6 +1,6 @@
 <h1 align="center"> Hello!👋 I'm Viktor</h1>
 
-<h3 align="center"> 🚀 Front-End developer who creates fast, responsive and aesthetically pleasing web applications.🚀 </h3>
+<h3 align="center"> 🚀 Front-End developer who creates interactive and stylish interfaces that captivate from the first click.🚀 </h3>
 
 ---
 
