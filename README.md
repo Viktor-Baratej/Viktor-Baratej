@@ -1,39 +1,39 @@
-<h1 align="center"> Привіт! 👋 Я Віктор</h1>
+<h1 align="center"> Hello!👋 I'm Victor</h1>
 
-<h3 align="center"> 🚀 Front-End розробник, який створює швидкі, адаптивні та естетично приємні веб-додатки.🚀 </h3>
-
----
-
-<h2 align="center">Я зараз навчаюсь і шукаю свою першу посаду, деб я зміг себе проявити.</h2>
-
-<h3 align="center">Я активно прокачую навички в **HTML/CSS, JS, React, TypeScript and Nodejs** та **Full-Stack розробці**, зокрема інтеграцію **ML/AI API**.</h3>
+<h3 align="center"> 🚀 Front-End developer who creates fast, responsive and aesthetically pleasing web applications.🚀 </h3>
 
 ---
 
-## 📝 Чим займаюсь:
+<h2 align="center">I am currently studying and looking for my first position where I can prove myself.</h2>
 
-- 🎨 Втілюю стильні та зручні UI/UX у код
-- ✍️ Веду технічні нотатки та статті
-- 🔥 Вивчаю Full-Stack, щоб розширити свої можливості
+<h3 align="center">I am actively improving my skills in **HTML/CSS, JS, React, TypeScript and Nodejs** and **Full-Stack development**, including **ML/AI API integration**.</h3>
 
 ---
 
-## 🏆 Про мене:
+## 📝 What do I do:
 
-Я цілеспрямований розробник, який пройшов шлях від **HTML, CSS, JavaScript, React, TypeScript** до **Node.js**.  
-Шукаю можливості для розвитку у Full-Stack та цікавлюсь AI-інтеграцією.
+- 🎨 I implement stylish and user-friendly UI/UX into code
+- ✍️ I write technical notes and articles
+- 🔥 I study Full-Stack to expand my capabilities
 
 ---
 
-## 🤝 Давай зв'яжемось!
+## 🏆 About me:
 
-Мої контакти:  
+I am a focused developer who has gone from **HTML, CSS, JavaScript, React, TypeScript** to **Node.js**.
+I am looking for opportunities to develop in Full-Stack and am interested in AI integration.
+
+---
+
+## 🤝 Let's get in touch!
+
+My contacts:  
 📩 **Email:** [Viktor1baratejj@gmail.com](mailto:Viktor1baratejj@gmail.com)  
 💬 **Telegram:** [@viktor_baratejj](https://t.me/viktor_baratejj)
 
 ---
 
-## 🛠️ Технології та інструменти
+## 🛠️ Technologies and tools:
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
@@ -50,4 +50,4 @@
 
 ---
 
-<h2 align="center">⚡ Створюй. Навчайся. Вдосконалюйся.</h2>
+<h2 align="center">⚡ Create. Learn. Improve.</h2>
