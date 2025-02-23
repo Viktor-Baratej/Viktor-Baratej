@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">I am actively improving my skills in **HTML/CSS, JS, React, TypeScript and Nodejs** and **Full-Stack development**, including **ML/AI API integration**.</h3>
+<h3 align="center">I am actively improving my skills in **HTML/CSS, JS, React, TypeScript and Nodejs** and **Full-Stack development**.</h3>
 
 ---
 
@@ -19,7 +19,7 @@
 ## 🏆 About me:
 
 I am a focused developer who has gone from **HTML, CSS, JavaScript, React, TypeScript** to **Node.js**.
-I am looking for opportunities to develop in Full-Stack and am interested in AI integration.
+I am looking for opportunities to develop in Full-Stack.
 
 ---
 
