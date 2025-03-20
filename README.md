@@ -38,6 +38,11 @@ I am continuously improving my skills in **HTML, CSS, JavaScript, React**, and *
 
 ---
 
+### **🌍 My Portfolio**
+🔗 **Check out my portfolio:** [viktor-baratej.github.io/portfolio](https://viktor-baratej.github.io/portfolio/)  
+
+---
+
 ### **🤝 Let's Connect!**
 📩 **Email:** [Viktor1baratejj@gmail.com](mailto:Viktor1baratejj@gmail.com)  
 💬 **Telegram:** [@viktor_baratejj](https://t.me/viktor_baratejj)  
