@@ -47,7 +47,7 @@ I am continuously improving my skills in **HTML, CSS, JavaScript, React**, and *
 📩 **Email:** [Viktor1baratejj@gmail.com](mailto:Viktor1baratejj@gmail.com)  
 💬 **Telegram:** [@viktor_baratejj](https://t.me/viktor_baratejj)  
 📌 **LinkedIn:** [linkedin.com/in/viktor-baratej](https://www.linkedin.com/in/viktor-baratej/)  
-📌 **GitHub:** [github.com/your-username](https://github.com/your-username)  
+📌 **GitHub:** [github.com/your-username](https://github.com/Viktor-Baratej)
 
 ---
 
